@@ -42,7 +42,7 @@
 ---
 
 ## 📌 Pinned Projects:
-- **[Robo: Voice Assistant Mega Project]((https://github.com/Mustafaadeel1/Maga_Project_ROBO-))**: My first vitural assistant
+- **[Robo: Voice Assistant Mega Project](https://github.com/Mustafaadeel1/Maga_Project_ROBO-)**: My first vitural assistant
 - **[Mustafa's Chatbot 😊](https://github.com/Mustafaadeel1/Chatbot)**: It`s my personal Chatbot  
 - **[Student-Tracker](https://github.com/Mustafaadeel1/Assiginment_Piaic/tree/main/Student-Tracker)** OOP Project :)
 ---
