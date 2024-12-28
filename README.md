@@ -42,9 +42,9 @@
 ---
 
 ## 📌 Pinned Projects:
-- **[Python Basics Lectures](https://github.com/YOUR_USERNAME/python-basics-lectures)**: Beginner-friendly Python tutorials and projects.
-- **[Student Performance Tracker](https://github.com/YOUR_USERNAME/student-performance-tracker)**: An OOP project to track student performance.
-
+- **[Robo: Voice Assistant Mega Project]((https://github.com/Mustafaadeel1/Maga_Project_ROBO-))**: My first vitural assistant
+- **[Mustafa's Chatbot 😊](https://github.com/Mustafaadeel1/Chatbot)**: It`s my personal Chatbot  
+- **[Student-Tracker](https://github.com/Mustafaadeel1/Assiginment_Piaic/tree/main/Student-Tracker)** OOP Project :)
 ---
 
 ## ✍️ Dev Quote:
