@@ -1,7 +1,7 @@
 # Mustafa DEVELOPER:
 
 ## 🌟 About Me:
-- 🚀 **Aspiring AI Developer** | PIAIC Applied Generative AI Student | Agentic AI Developer | Python Enthusiast | YouTuber: [AI for Everyone](https://www.youtube.com/@AIforEveryone)
+- 🚀 **Aspiring AI Developer** | PIAIC Applied Generative AI Student | Agentic AI Developer | Python Enthusiast | YouTuber: [AI FOR EVERYONE](https://www.youtube.com/@AiForEveryone_804)
 - 🌱 I’m currently working on:
   - Generative AI projects
   - Agentic AI projects
@@ -35,15 +35,10 @@
 ---
 
 ## 🌐 Connect with Me:
-- 🌟 YouTube: [AI for Everyone](https://www.youtube.com/@AIforEveryone)
+- 🌟 YouTube: [AI for Everyone](https://www.youtube.com/@AiForEveryone_804)
 - 🐦 LinkedIn: [[Mustafa](https://www.linkedin.com/in/Mustafa)](https://www.linkedin.com/in/mustafa-adeel-18b839278/)
 
 ---
-
-## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
 ---
 
 ## 📌 Pinned Projects:
