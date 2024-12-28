@@ -36,8 +36,7 @@
 
 ## 🌐 Connect with Me:
 - 🌟 YouTube: [AI for Everyone](https://www.youtube.com/@AIforEveryone)
-- 🐦 LinkedIn: [Mustafa](https://www.linkedin.com/in/Mustafa)
-- 🎥 TikTok: [AI for Everyone](https://www.tiktok.com/@AIforEveryone)
+- 🐦 LinkedIn: [[Mustafa](https://www.linkedin.com/in/Mustafa)](https://www.linkedin.com/in/mustafa-adeel-18b839278/)
 
 ---
 
@@ -55,28 +54,6 @@
 
 ## ✍️ Dev Quote:
 _"Success is the sum of small efforts, repeated day in and day out."_ – Robert Collier
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
