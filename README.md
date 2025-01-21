@@ -51,7 +51,7 @@
 _"Success is the sum of small efforts, repeated day in and day out."_ – Robert Collier
 
 
-<h3 align="center">A passionate frontend developer from Pakistan, Punjab</h3>
+<h3 align="center">A Passionate Full-Stack Developer and AI Enthusiast Specializing in Agentic AI, Generative AI, and Robotics from Punjab, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaadeel1&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaadeel1" /> </p>
 
