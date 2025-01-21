@@ -1,7 +1,7 @@
 # Mustafa DEVELOPER:
 
 ## 🌟 About Me:
-- 🚀 **Aspiring AI Developer** | PIAIC Applied Generative AI Student | Agentic AI Developer | Python Enthusiast | YouTuber: [AI FOR EVERYONE](https://www.youtube.com/@AiForEveryone_804)
+- 🚀 **Aspiring AI Developer** |A Passionate Full-Stack Developer and AI Enthusiast Specializing in Agentic AI, Generative AI, and Robotics
 - 🌱 I’m currently working on:
   - Generative AI projects
   - Agentic AI projects
