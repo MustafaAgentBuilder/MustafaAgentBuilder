@@ -1,7 +1,7 @@
 # Mustafa DEVELOPER:
 
 ## 🌟 About Me:
-- 🚀 **Aspiring AI Developer** |A Passionate Full-Stack Developer and AI Enthusiast Specializing in Agentic AI, Generative AI, and Robotics
+- 🚀 **Aspiring AI Developer** |A Passionate Full-Stack Developer and AI Enthusiast Specializing in Agentic AI, Generative AI, and Robotics also Agents creator
 - 🌱 I’m currently working on:
   - Generative AI projects
   - Agentic AI projects
@@ -14,7 +14,7 @@
 - 💡 I’m looking for help with:
   - Advanced OOP concepts and building efficient algorithms
 - 📚 I’m currently learning:
-  - **Agentic AI & Generative AI** (PIAIC, Quarter 2)
+  - **Agentic AI & Generative AI** 
   - Python advanced libraries like NumPy, Pandas, and Matplotlib
   - Video editing and improving my YouTube content
 - 💬 Ask me about:
