@@ -77,9 +77,9 @@ If you want, I can add live GIF demos, more badges (language, visits, stars), or
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/hafiz-mustafa-mirza-18b839278/](https://www.linkedin.com/in/hafiz-mustafa-mirza-18b839278/)
 * 🟢 **Upwork Profile:** [https://freelancerprofilenuxt.mesh.prod.platform.usw2.upwork/freelancers/~0148ac0842379a874c?mp_source=share](https://freelancerprofilenuxt.mesh.prod.platform.usw2.upwork/freelancers/~0148ac0842379a874c?mp_source=share)
 * 📌 **Main Pinned Repo:** [https://github.com/MustafaAgentBuilder/ai-native-software-development-Tutor](https://github.com/MustafaAgentBuilder/ai-native-software-development-Tutor)
-* 📄 **Resume (PDF):** *(You can add hosted link later)*
-* 🎥 **Video Demo:** *(Blank — add your YouTube link anytime)*
-* ⭐ **Pinned Repos:** Check top of my GitHub profile
+* 📄 **Resume (PDF):** 
+* 🎥 **Video Demo:** 
+* ⭐ **Pinned Repos:** [https://github.com/MustafaAgentBuilder](GITHUB)
 * 📬 **Want a Live Demo?** Email me anytime
 
 ---
