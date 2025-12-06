@@ -41,7 +41,7 @@ Check the pinned repositories for demos and how to run them.
 
 ## 🤝 Let's Connect
 
-* **LinkedIn:** Connect with me on LinkedIn
+* **LinkedIn:** [https://www.linkedin.com/in/hafiz-mustafa-mirza-18b839278](Connect_with_me_on_LinkedIn)
 * **Email:** [mustafaadeel989@gmail.com](mailto:mustafaadeel989@gmail.com)
 
 <p align="center">
@@ -98,8 +98,5 @@ If this work helps you, please:
 
 Thanks for visiting — I love building agentic AI that actually works. If you want a short walkthrough video, tell me which repo and I will prepare a tiny demo.
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DMustafaAgentBuilder%26color%3Dblue" alt="Profile views">
-</p>
 
 <!-- Note: The line above is a GitHub badge that tracks views, making your profile look active! -->
